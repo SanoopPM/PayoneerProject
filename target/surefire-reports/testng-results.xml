@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46859" started-at="2021-10-23T13:58:23 IST" finished-at="2021-10-23T13:59:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46859" started-at="2021-10-23T13:58:23 IST" finished-at="2021-10-23T13:59:10 IST">
+      <class name="script.TestCase">
+        <test-method status="PASS" signature="Prelaunch()[pri:0, instance:script.TestCase@bbd20a]" name="Prelaunch" is-config="true" duration-ms="480" started-at="2021-10-23T13:58:23 IST" finished-at="2021-10-23T13:58:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Prelaunch -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:script.TestCase@bbd20a]" name="precondition" is-config="true" duration-ms="26020" started-at="2021-10-23T13:58:23 IST" finished-at="2021-10-23T13:58:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="Test_Login()[pri:0, instance:script.TestCase@bbd20a]" name="Test_Login" duration-ms="14703" started-at="2021-10-23T13:58:49 IST" finished-at="2021-10-23T13:59:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Login -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:script.TestCase@bbd20a]" name="postcondition" is-config="true" duration-ms="6067" started-at="2021-10-23T13:59:04 IST" finished-at="2021-10-23T13:59:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- script.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

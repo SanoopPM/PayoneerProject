@@ -1,0 +1,5 @@
+pages\LoginPage.class
+pages\HomePage.class
+generics\BaseTest.class
+generics\DriverFunctionalities.class
+script\TestCase.class

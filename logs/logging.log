@@ -1,0 +1,94 @@
+2021-05-05 12:42:40 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 12:42:41 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (994674527bd6d8ea4abacb07a285b2d1)] -> id: login-email]
+2021-05-05 12:42:42 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (994674527bd6d8ea4abacb07a285b2d1)] -> id: password-login]
+2021-05-05 12:44:13 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 12:44:13 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (b61da3ff6e2ec9dcde38ff98508a5d91)] -> id: login-email]
+2021-05-05 12:44:14 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (b61da3ff6e2ec9dcde38ff98508a5d91)] -> id: password-login]
+2021-05-05 12:44:22 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (b61da3ff6e2ec9dcde38ff98508a5d91)] -> class name: ProfileButton-avatar]
+2021-05-05 12:44:22 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (b61da3ff6e2ec9dcde38ff98508a5d91)] -> xpath: //span[text()='Log Out']]
+2021-05-05 12:44:24 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (b61da3ff6e2ec9dcde38ff98508a5d91)] -> id: login-email]
+2021-05-05 12:47:21 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 12:47:21 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (449d03b8360059e56abecdec8d354ab0)] -> id: login-email]
+2021-05-05 12:47:22 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (449d03b8360059e56abecdec8d354ab0)] -> id: password-login]
+2021-05-05 12:48:22 ERROR : generics.DriverFunctionalities :50 - Waited for element but it is not visible- Proxy element for: DefaultElementLocator 'By.className: ProfileButton-avatar'
+2021-05-05 12:51:02 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 12:51:02 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (afdc7dac74e3918fa5592a6184599a9e)] -> id: login-email]
+2021-05-05 12:51:03 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (afdc7dac74e3918fa5592a6184599a9e)] -> id: password-login]
+2021-05-05 12:52:08 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 12:52:08 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (203c3284ce0e68ba22f41dc5bdc3123a)] -> id: login-email]
+2021-05-05 12:52:09 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (203c3284ce0e68ba22f41dc5bdc3123a)] -> id: password-login]
+2021-05-05 12:53:10 ERROR : generics.DriverFunctionalities :50 - Waited for element but it is not visible- Proxy element for: DefaultElementLocator 'By.className: ProfileButton-avatar'
+2021-05-05 12:54:19 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 12:54:19 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (83106d555a0c5127325f8254ba0ca394)] -> id: login-email]
+2021-05-05 12:54:20 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (83106d555a0c5127325f8254ba0ca394)] -> id: password-login]
+2021-05-05 12:54:28 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (83106d555a0c5127325f8254ba0ca394)] -> class name: ProfileButton-avatar]
+2021-05-05 12:54:28 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (83106d555a0c5127325f8254ba0ca394)] -> xpath: //span[text()='Log Out']]
+2021-05-05 12:54:30 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (83106d555a0c5127325f8254ba0ca394)] -> id: login-email]
+2021-05-05 13:02:49 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:02:49 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (3ec1378e43ff89d7f4527fb4796fce18)] -> id: login-email]
+2021-05-05 13:02:51 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (3ec1378e43ff89d7f4527fb4796fce18)] -> id: password-login]
+2021-05-05 13:02:56 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (3ec1378e43ff89d7f4527fb4796fce18)] -> class name: ProfileButton-avatar]
+2021-05-05 13:03:47 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:03:47 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (4664284553ee5099620d31c9abe2652a)] -> id: login-email]
+2021-05-05 13:03:48 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (4664284553ee5099620d31c9abe2652a)] -> id: password-login]
+2021-05-05 13:05:18 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:05:18 INFO  : generics.DriverFunctionalities :95 - webdriver waited for certain amount of times 
+2021-05-05 13:06:19 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:06:19 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (c6b89e727bab65511db3b7297786a820)] -> id: login-email]
+2021-05-05 13:06:25 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (c6b89e727bab65511db3b7297786a820)] -> id: password-login]
+2021-05-05 13:06:30 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (c6b89e727bab65511db3b7297786a820)] -> class name: ProfileButton-avatar]
+2021-05-05 13:06:31 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (c6b89e727bab65511db3b7297786a820)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:12:28 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:12:29 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (92e3033456e74f5749ca59cd64f316a8)] -> id: login-email]
+2021-05-05 13:12:35 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (92e3033456e74f5749ca59cd64f316a8)] -> id: password-login]
+2021-05-05 13:12:41 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (92e3033456e74f5749ca59cd64f316a8)] -> class name: ProfileButton-avatar]
+2021-05-05 13:12:42 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (92e3033456e74f5749ca59cd64f316a8)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:12:43 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (92e3033456e74f5749ca59cd64f316a8)] -> xpath: //button[.='New']]
+2021-05-05 13:13:37 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:13:37 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (dab49ddda936d6b8c23afcb04dc1c225)] -> id: login-email]
+2021-05-05 13:13:43 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (dab49ddda936d6b8c23afcb04dc1c225)] -> id: password-login]
+2021-05-05 13:13:49 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (dab49ddda936d6b8c23afcb04dc1c225)] -> class name: ProfileButton-avatar]
+2021-05-05 13:13:52 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (dab49ddda936d6b8c23afcb04dc1c225)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:13:52 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (dab49ddda936d6b8c23afcb04dc1c225)] -> xpath: //button[.='New']]
+2021-05-05 13:15:43 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:15:43 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (31f3684870885911c31054c34cdc78f4)] -> id: login-email]
+2021-05-05 13:15:49 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (31f3684870885911c31054c34cdc78f4)] -> id: password-login]
+2021-05-05 13:15:56 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (31f3684870885911c31054c34cdc78f4)] -> class name: ProfileButton-avatar]
+2021-05-05 13:15:57 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (31f3684870885911c31054c34cdc78f4)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:15:57 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (31f3684870885911c31054c34cdc78f4)] -> xpath: //button[.='New']]
+2021-05-05 13:17:39 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:17:39 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (12ed45a2abfc32d887d73fdc4facd5d6)] -> id: login-email]
+2021-05-05 13:17:46 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (12ed45a2abfc32d887d73fdc4facd5d6)] -> id: password-login]
+2021-05-05 13:17:54 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (12ed45a2abfc32d887d73fdc4facd5d6)] -> class name: ProfileButton-avatar]
+2021-05-05 13:17:55 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (12ed45a2abfc32d887d73fdc4facd5d6)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:17:55 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (12ed45a2abfc32d887d73fdc4facd5d6)] -> xpath: //*[text()='New']]
+2021-05-05 13:19:11 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:19:11 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (06c46d816c14c1bacf3bbf35a1f4d4bd)] -> id: login-email]
+2021-05-05 13:19:18 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (06c46d816c14c1bacf3bbf35a1f4d4bd)] -> id: password-login]
+2021-05-05 13:19:22 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (06c46d816c14c1bacf3bbf35a1f4d4bd)] -> class name: ProfileButton-avatar]
+2021-05-05 13:19:24 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (06c46d816c14c1bacf3bbf35a1f4d4bd)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:19:24 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (06c46d816c14c1bacf3bbf35a1f4d4bd)] -> class name: UnifiedNewDropdownMenuToggleButton-label]
+2021-05-05 13:20:46 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:20:46 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (09c13e4fe50c63a482295d9219e52654)] -> id: login-email]
+2021-05-05 13:20:52 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (09c13e4fe50c63a482295d9219e52654)] -> id: password-login]
+2021-05-05 13:20:57 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (09c13e4fe50c63a482295d9219e52654)] -> class name: ProfileButton-avatar]
+2021-05-05 13:20:59 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (09c13e4fe50c63a482295d9219e52654)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:21:04 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (09c13e4fe50c63a482295d9219e52654)] -> id: menubutton28]
+2021-05-05 13:22:48 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:22:49 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (a78e5fb5a34b6c94dc4060a8e8a56597)] -> id: login-email]
+2021-05-05 13:22:55 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (a78e5fb5a34b6c94dc4060a8e8a56597)] -> id: password-login]
+2021-05-05 13:23:01 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (a78e5fb5a34b6c94dc4060a8e8a56597)] -> class name: ProfileButton-avatar]
+2021-05-05 13:23:02 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (a78e5fb5a34b6c94dc4060a8e8a56597)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:23:07 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (a78e5fb5a34b6c94dc4060a8e8a56597)] -> xpath: //*[text()='New']]
+2021-05-05 13:26:00 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:26:00 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (e4cd54607c14b56cda9b622e49985595)] -> id: login-email]
+2021-05-05 13:26:07 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (e4cd54607c14b56cda9b622e49985595)] -> id: password-login]
+2021-05-05 13:26:14 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (e4cd54607c14b56cda9b622e49985595)] -> class name: ProfileButton-avatar]
+2021-05-05 13:26:15 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (e4cd54607c14b56cda9b622e49985595)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:26:20 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (e4cd54607c14b56cda9b622e49985595)] -> xpath: //*[text()='New']]
+2021-05-05 13:40:12 INFO  : pages.LoginPage :50 - Click on login button in home page
+2021-05-05 13:40:12 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (917500dd78b5997b92e1c30d36592111)] -> id: login-email]
+2021-05-05 13:40:18 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (917500dd78b5997b92e1c30d36592111)] -> id: password-login]
+2021-05-05 13:40:24 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (917500dd78b5997b92e1c30d36592111)] -> class name: ProfileButton-avatar]
+2021-05-05 13:40:25 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (917500dd78b5997b92e1c30d36592111)] -> class name: OnboardingTrackerActions-actionIcon]
+2021-05-05 13:40:30 INFO  : generics.DriverFunctionalities :47 - Waited for element to be visible - [[ChromeDriver: chrome on WINDOWS (917500dd78b5997b92e1c30d36592111)] -> xpath: //*[text()='New']]
